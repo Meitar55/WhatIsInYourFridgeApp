@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "58FFE062-45B6-4C04-845E-127240D0FA7A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ED0A0EB-7B37-468B-99B9-7B0BD04D2D29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/What&apos;s In My Fridge Tab/DetailedRecipeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "setUpRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2ED0A0EB-7B37-468B-99B9-7B0BD04D2D29 - 492add3074e5e352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatIsInMyFridgeApp.DetailedRecipeViewControllerIdea.setUpRecipe() -&gt; ()"
+                  moduleName = "WhatIsInMyFridgeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test11/Desktop/WhatIsInMyFridgeApp/WhatIsInMyFridgeApp/What&apos;s%20In%20My%20Fridge%20Tab/DetailedRecipeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1651">
+               </Location>
+               <Location
+                  uuid = "2ED0A0EB-7B37-468B-99B9-7B0BD04D2D29 - 492add3074e5e352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhatIsInMyFridgeApp.DetailedRecipeViewControllerIdea.setUpRecipe() -&gt; ()"
+                  moduleName = "WhatIsInMyFridgeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test11/Desktop/WhatIsInMyFridgeApp/WhatIsInMyFridgeApp/What&apos;s%20In%20My%20Fridge%20Tab/DetailedRecipeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1707">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82B3AF87-AAAD-49B9-A413-D7E74A60F9FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/What&apos;s In My Fridge Tab/DetailedRecipeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "setUpRecipe()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F693C591-BE03-4687-9425-33C7ADE03F8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/Services/SpoonculaService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "getFullRecipe(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F693C591-BE03-4687-9425-33C7ADE03F8C - fac5039ae4f80db0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhatIsInMyFridgeApp.SpoonculaService.getFullRecipe(id: Swift.Int) async -&gt; Swift.Optional&lt;WhatIsInMyFridgeApp.FullRecipe&gt;"
+                  moduleName = "WhatIsInMyFridgeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test11/Desktop/WhatIsInMyFridgeApp/WhatIsInMyFridgeApp/Services/SpoonculaService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "F693C591-BE03-4687-9425-33C7ADE03F8C - 3eba89ededbe23b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for WhatIsInMyFridgeApp.SpoonculaService.getFullRecipe(id: Swift.Int) async -&gt; Swift.Optional&lt;WhatIsInMyFridgeApp.FullRecipe&gt;"
+                  moduleName = "WhatIsInMyFridgeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test11/Desktop/WhatIsInMyFridgeApp/WhatIsInMyFridgeApp/Services/SpoonculaService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "F693C591-BE03-4687-9425-33C7ADE03F8C - 63281620d57439ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for WhatIsInMyFridgeApp.SpoonculaService.getFullRecipe(id: Swift.Int) async -&gt; Swift.Optional&lt;WhatIsInMyFridgeApp.FullRecipe&gt;"
+                  moduleName = "WhatIsInMyFridgeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test11/Desktop/WhatIsInMyFridgeApp/WhatIsInMyFridgeApp/Services/SpoonculaService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C162AAF5-E15A-4F75-B75E-0B42F8C05E33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/Services/SpoonculaService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "getRecipeNutrients(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8B5B94E-34EA-4F85-82D4-46952D486275"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/Services/SpoonculaService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "getRecipeNutrients(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F94AAF6-2768-44D7-A43C-319988A85EB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/What&apos;s In My Fridge Tab/Ingredients Of Recipe Cell/RecipeIngredientTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "setUpIngredientCell()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95F3F2EF-260F-4259-891E-F144FF3CB3FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/What&apos;s In My Fridge Tab/DetailedRecipeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64AFB0AD-030F-422E-9912-88E60E5D8905"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/What&apos;s In My Fridge Tab/RecipesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F15CB4DA-815C-4A01-8C8B-7A82B7FAC069"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhatIsInMyFridgeApp/What&apos;s In My Fridge Tab/DetailedRecipeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
